@@ -1,4 +1,4 @@
-# Reinforcement Learning for Dynamic Model Weight Assignment
+# Reinforcement Learning for Dynamic Model Weight Assignment : To Be Published In IJCST August/September
 
 This repository contains the code for our research on using reinforcement learning for dynamic model weight assignment in financial markets.
 
